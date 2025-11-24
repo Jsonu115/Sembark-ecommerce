@@ -48,11 +48,11 @@ body {
 }
 
 .topbar-logo-icon {
-  font-size: 22px;
+  font-size: 17px;
 }
 
 .topbar-logo-text {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 700;
 }
 
@@ -65,8 +65,8 @@ body {
   position: relative;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 6px 14px;
+  gap: 5px;
+  padding: 6px 6px;
   border-radius: 8px;
   border: none;
   background-color: #ffffff;
@@ -421,7 +421,7 @@ body {
 .qty-control button {
   border: none;
   background: #f9fafb;
-  padding: 6px 12px;
+  padding: 6px 6px;
   cursor: pointer;
 }
 
